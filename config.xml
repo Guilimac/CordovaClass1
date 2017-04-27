@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0"
+ id="br.com.fiap.emilio">
+ <name>Aula 1 Phonegap</name>
+ <description>App exemplo da aula</description>
+ <author href="http://google.com.br"
+ email="gui_lima_c@hotmail.com">Guilherme de Lima
+ </author>
+ <preference name="orientation" value="portrait">
+ <preference name="fullscreen" value="true">
+ <gap:platform name="android" />
+</widget> 
