@@ -7,7 +7,7 @@ xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0"
  <author href="http://google.com.br"
  email="gui_lima_c@hotmail.com">Guilherme de Lima
  </author>
- <preference name="orientation" value="portrait">
- <preference name="fullscreen" value="true">
+ <preference name="orientation" value="portrait"></preference>
+ <preference name="fullscreen" value="true"></preference>
  <gap:platform name="android" />
 </widget> 
